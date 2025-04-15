@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538091076285",
+    "project_id": "flutter-flow-a-i-chat-t-m8p4yt",
+    "storage_bucket": "flutter-flow-a-i-chat-t-m8p4yt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538091076285:android:8084462ed9fda4d704d5d4",
+        "android_client_info": {
+          "package_name": "com.mycompany.googleedtechai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4N0mzHpuEgbSfN-Uryrahkm-v6EUzVbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
